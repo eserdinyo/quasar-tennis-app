@@ -1,6 +1,6 @@
 # Tenis Partnerim (quasar-tennis)
 
-A Quasar Framework app
+My Tennis Partner
 
 ## Install the dependencies
 ```bash
